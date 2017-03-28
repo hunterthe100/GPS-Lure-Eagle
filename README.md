@@ -1,7 +1,9 @@
-# GPS-Lure (Not named yet)
+# GPS-Lure 
 A lure for the MinnowBoard Max & MinnowBoard Turbot.  Copyright (C) 2015 Smallworks, LLC
 
 This design is made with [EAGLE CAD](http://www.cadsoftusa.com/eagle-pcb-design-software/about-eagle/) 
+
+Comercially avaliable at: https://store.netgate.com/Lures/GPS.aspx
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
 [![Licensing CC BY-SA 4.0](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)  
